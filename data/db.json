@@ -1,0 +1,58 @@
+{
+  "bikes": [
+    {
+      "id": 1,
+      "name": "Bicicleta electrica E01",
+      "type": "electric",
+      "image": "/images/bike-electric1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bicicleta electrica E02",
+      "type": "electric",
+      "image": "/images/bike-electric2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bicicleta electrica E03",
+      "type": "electric",
+      "image": "/images/bike-electric3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bicicleta normal N01",
+      "type": "normal",
+      "image": "/images/bike-normal1.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Bicicleta normal N02",
+      "type": "normal",
+      "image": "/images/bike-normal2.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Bicicleta normal N03",
+      "type": "normal",
+      "image": "/images/bike-normal3.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Bicicleta antigua A01",
+      "type": "vintage",
+      "image": "/images/bike-vintage1.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Bicicleta antigua A01",
+      "type": "vintage",
+      "image": "/images/bike-vintage2.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Bicicleta antigua A01",
+      "type": "vintage",
+      "image": "/images/bike-vintage3.jpeg"
+    }
+  ]
+}
